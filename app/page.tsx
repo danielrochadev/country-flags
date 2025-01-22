@@ -20,6 +20,7 @@ export default function Home() {
             </code>
             .
           </li>
+          <li className="mb-2">Save and see your changes instantly.</li>
           <li>Save and see your changes instantly.</li>
         </ol>
 
